@@ -1,19 +1,14 @@
 - title: JobOn
   event: Group Project
-  techstack : HTML, CSS, JavaScript, ReactJS, NodeJS, MySQL, Kafka, MongoDB
 
 - title: The Food App
   event: Personal Project
-  techstack : Java, Android Studio, Firebase
 
 - title: Sky Gazer, Identification of Celestial Bodies
   event: Research Paper + Project
-  techstack : Python, OpenCV, Supervised ML Algorithms(KNN, SVM)
 
 - title: TicTacToe
   event: Personal Project
-  techstack : Java, Android Studio
 
 - title: MusicX, Your favourite music app 
   event: Personal Project
-  techstack : Java, Android Studio, Firebase
